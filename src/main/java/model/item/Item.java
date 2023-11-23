@@ -2,7 +2,7 @@ package model.item;
 /*
  * 데이터베이스 저장된 값을 토대로 값을 저장하기 위한 객체
  * DTO (Data Transfer Object), VO (Value Object), Entity  
- * 
+ * 깃 부활
  */
 public class Item {
 	private int code;
